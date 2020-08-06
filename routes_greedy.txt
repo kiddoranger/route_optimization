@@ -1,0 +1,40 @@
+The boarding times are:
+Bus number 1
+Rajarajeshwarinagar Double Road, Bangalore = 6:15
+Jayanagar, Bangalore = 6:29
+Kattrigupe, Bangalore = 6:40
+Kuthriguppe, Bangalore = 6:40
+Kathriguppe, Bangalore = 6:40
+Kathriguppe, Bangalore = 6:40
+Kathriguppe, Bangalore = 6:40
+Kamakya Theatre, Bangalore = 6:44
+Kamakya Theatre, Bangalore = 6:44
+Bosch Bidadi= 7:31
+Bus number 2
+Mantri Apartment, Bangalore = 6:15
+PESIT Collage, Bangalore = 6:37
+Bosch Bidadi= 7:30
+Bus number 3
+Kadirenahallli, Bangalore = 6:15
+Chowdeshwari Talkies, Bangalore = 6:16
+Devegowda Petrol Bunk, Bangalore = 6:21
+Bata Show Room, Hosakerahalli, Bangalore = 6:29
+Katherguppe Circle, Bangalore = 6:35
+Ittamadu, Bangalore = 6:38
+Hosakarehalli, Bangalore = 6:44
+HosaKerehalli, Bangalore = 6:44
+HosaKerehalli, Bangalore = 6:44
+HosaKerehalli, Bangalore = 6:44
+Hoskeralli, Bangalore = 6:44
+Bosch Bidadi= 7:31
+Bus number 4
+Jantha Bazar, Bangalore = 6:15
+Rajarajeshwari temple, Bangalore = 6:48
+Bosch Bidadi= 7:21
+Bus number 5
+Kanthi Sweets RR Nagar, Bangalore = 6:15
+Kodipalya (Uttarahalli main Road), Bangalore = 6:21
+Channasandra RNSIT, Bangalore = 6:23
+Channasandra RNSIT, Bangalore = 6:23
+Uttarahalli road Kengeri, Bangalore = 6:33
+Bosch Bidadi= 7:1

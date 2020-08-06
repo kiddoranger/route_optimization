@@ -1,0 +1,30 @@
+0 12.9222029 77.55996789999999 Devegowda Petrol Bunk, Bangalore
+1 12.9221653 77.5362561 Hoskeralli, Bangalore
+2 12.9021902 77.518582 Channasandra RNSIT, Bangalore
+3 12.9021902 77.518582 Channasandra RNSIT, Bangalore
+4 12.9293653 77.5569265 Kathriguppe, Bangalore
+5 12.9293653 77.5569265 Kathriguppe, Bangalore
+6 12.9293653 77.5569265 Kathriguppe, Bangalore
+7 12.9233054 77.55334479999999 Kamakya Theatre, Bangalore
+8 12.9233054 77.55334479999999 Kamakya Theatre, Bangalore
+9 12.8614515 77.6647081 PESIT Collage, Bangalore
+10 12.9252588 77.54993759999999 Katherguppe Circle, Bangalore
+11 12.9221653 77.5362561 HosaKerehalli, Bangalore
+12 12.9221653 77.5362561 HosaKerehalli, Bangalore
+13 12.9221653 77.5362561 HosaKerehalli, Bangalore
+14 12.9380003 77.556851 Bata Show Room,Hosakerahalli Bangalore
+15 12.9227364 77.54525110000002 Ittamadu, Bangalore
+16 12.9312038 77.5067344 Rajarajeshwari temple, Bangalore
+17 12.9770286 77.5773054 Jantha Bazar, Bangalore
+18 12.9293653 77.5569265 Kuthriguppe, Bangalore
+19 12.9221653 77.5362561 Hosakarehalli, Bangalore
+20 12.9571219 77.5926667 Rajarajeshwarinagar Double Road, Bangalore
+21 12.9149751 77.52076939999999 Kanthi Sweets RR Nagar, Bangalore
+22 12.9156821 77.5634096 Chowdeshwari Talkies, Bangalore
+23 12.9308404 77.58015979999999 Jayanagar, Bangalore
+24 12.9293653 77.5569265 Kattrigupe, Bangalore
+25 12.9155211 77.56265839999999 Kadirenahallli, Bangalore
+26 12.9190318 77.64351239999999 Mantri Apartment, Bangalore
+27 12.9040515 77.5256473 Kodipalya (Uttarahalli main Road), Bangalore
+28 12.9100928 77.486864 Uttarahalli road Kengeri, Bangalore
+
